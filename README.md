@@ -1,4 +1,4 @@
-#Using React js ans Tailwind css i created this project
+# Using React js and Tailwindcss and firebase  i created this project
 
 # How to run the code _ --->
 1. create a new folder open in a vs code
